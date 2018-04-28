@@ -1,0 +1,81 @@
+﻿capital = 46
+
+oob = ""
+
+set_research_slots = 3
+set_stability = 0.6
+set_war_support = 0.6
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	early_fighter = 1
+}
+set_convoys = 10
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 20
+		}
+
+		fascism = {
+			popularity = 18
+		}
+		
+		communism = {
+			popularity = 2
+		}
+		
+		neutrality = { 
+			popularity = 60
+		}
+	}
+	
+	ruling_party = neutrality
+	last_election = "1933.12.20"
+	election_frequency = 48
+	elections_allowed = yes
+}
+create_country_leader = {
+	name = "PlaceHolder Leader"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "PlaceHolder Leader"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "PlaceHolder Leader"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = leninism
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "PlaceHolder Leader"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}

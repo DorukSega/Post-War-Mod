@@ -1,0 +1,81 @@
+﻿capital = 7
+
+oob = ""
+
+set_research_slots = 3
+set_stability = 0.8
+set_war_support = 0.1
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	early_fighter = 1
+}
+
+
+
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 93
+		}
+
+		fascism = {
+			popularity = 4
+		}
+		
+		communism = {
+			popularity = 3
+		}
+	}
+	
+	ruling_party = democratic
+	last_election = "1933.4.26"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_convoys = 500
+set_stability = 0.75
+create_country_leader = {
+	name = "PlaceHolder Leader"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "PlaceHolder Leader"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "PlaceHolder Leader"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = leninism
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "PlaceHolder Leader"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		#
+	}
+}
