@@ -40,7 +40,8 @@ set_politics = {
 }
 
 set_convoys = 20
-set_stability = 0.55create_country_leader = {
+set_stability = 0.55
+create_country_leader = {
 	name = "PlaceHolder Leader"
 	desc = ""
 	picture = ""

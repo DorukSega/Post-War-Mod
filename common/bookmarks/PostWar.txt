@@ -1,8 +1,8 @@
-﻿bookmarks = {
+bookmarks = {
 	bookmark = {
-		name = ""
-		desc = ""
-		date = 1919.8.14.12
+		name = "POSTWAR"
+		desc = "POSTWAR"
+		date = 1919.1.1.12
 		picture = "GFX_select_date_1939"
 		default_country = "GER"
 	
