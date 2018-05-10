@@ -34,42 +34,35 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+
 create_country_leader = {
-	name = "PlaceHolder Leader"
-	desc = ""
-	picture = ""
+	name = "Amanullah Khan"
+	desc = "POLITICS_AMANULLAH_DESC"
+	picture = "Portrait_Afghanistan_Amanullah_Khan.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = despotism
 	traits = {
 		#
 	}
 }
+
 create_country_leader = {
-	name = "PlaceHolder Leader"
-	desc = ""
-	picture = ""
+	name = "Nasrullah Khan"
+	desc = "POLITICS_NASRULLAH_DESC"
+	picture = "Portrait_Afghanistan_Nasrullah_Khan.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = despotism
 	traits = {
 		#
 	}
 }
+
 create_country_leader = {
-	name = "PlaceHolder Leader"
-	desc = ""
-	picture = ""
+	name = "Habibullah Khan"
+	desc = "POLITICS_HABIBULLAH_DESC"
+	picture = "Portrait_Afghanistan_Habibullah_Khan.dds"
 	expire = "1965.1.1"
-	ideology = leninism
-	traits = {
-		#
-	}
-}
-create_country_leader = {
-	name = "PlaceHolder Leader"
-	desc = ""
-	picture = ""
-	expire = "1965.1.1"
-	ideology = centrism
+	ideology = despotism
 	traits = {
 		#
 	}
